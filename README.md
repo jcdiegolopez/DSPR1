@@ -1,4 +1,15 @@
-# Scraping MINEDUC
+# Proyecto 1 — Data Science
+
+**Universidad del Valle de Guatemala**  
+Ingeniería en Ciencias de la Computación
+
+## Integrantes
+
+- Diego López — Carné 23242
+- Luis González — Carné 23353
+- Diego Rosales — Carné 23258
+
+## Scraping MINEDUC
 
 Extraccion reproducible de establecimientos educativos del portal MINEDUC para `Nivel Escolar = DIVERSIFICADO`.
 
