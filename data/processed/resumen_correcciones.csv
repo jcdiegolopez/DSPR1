@@ -1,0 +1,4 @@
+tipo_correccion,registros_afectados
+Marcadores de ausencia convertidos a NA,105
+Telefonos no normalizables retirados del campo analitico y marcados,248
+Distritos incompletos convertidos a NA y marcados,70

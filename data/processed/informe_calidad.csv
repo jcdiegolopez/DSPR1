@@ -1,0 +1,11 @@
+metrica,antes,despues,interpretacion
+Registros,"11,867","11,867",No se eliminaron filas.
+Variables,26,29,Se elimino municipio_consulta y se agregaron cuatro variables derivadas.
+Valores faltantes,"15,799 (5.12%)","5,196 (1.51%)",Los marcadores se representan de forma uniforme como NA.
+Variables con NA,7,7,Se contabilizan variables con al menos un valor faltante.
+Duplicados exactos,0,0,No se encontraron filas identicas.
+Posibles duplicados,"8,414 registros en 13,221 parejas","8,414 conservados; 0 corregidos; 0 fusionados",La decision permanece pendiente de revision manual; no se eliminaron registros automaticamente.
+Variables con formato inconsistente,2,0,Se trataron 248 telefonos y 70 distritos.
+Variables con tipo incorrecto,1,0,fecha_extraccion se convirtio de texto a fecha-hora UTC.
+Categorias inconsistentes,0,0,No se detectaron categorias equivalentes escritas de maneras distintas.
+Errores corregidos,423 casos detectados,423 casos tratados,El detalle se presenta por tipo de correccion.
