@@ -20,6 +20,17 @@ Para una prueba corta:
 python scripts/scrape_mineduc_diversificado.py --output-dir data/test_run --department-limit 1
 ```
 
+## Validacion e informe de calidad
+
+El notebook `notebooks/03_validacion_informe_calidad.ipynb` ejecuta las pruebas automaticas del conjunto limpio y genera la comparacion antes y despues.
+
+Salidas principales:
+
+- `data/processed/resultados_validacion.csv`
+- `data/processed/informe_calidad.csv`
+- `data/processed/resumen_correcciones.csv`
+- `data/processed/informe_calidad.md`
+
 ## Salidas
 
 - `data/raw/establecimientos_diversificado_guatemala.csv`

@@ -9,7 +9,7 @@ Variables derivadas y justificacion:
 | variable | tipo_dato | nulos | es_derivada | descripcion |
 |---|---|---:|---|---|
 | codigo | str | 0 | False |  |
-| distrito | str | 532 | False |  |
+| distrito | str | 602 | False |  |
 | departamento | string | 0 | False |  |
 | municipio | string | 0 | False |  |
 | establecimiento | str | 5 | False |  |
@@ -33,7 +33,7 @@ Variables derivadas y justificacion:
 | modalidad_consulta | string | 0 | False |  |
 | departamento_consulta | string | 0 | False |  |
 | departamento_consulta_codigo | string | 0 | False |  |
-| telefono_normalizado | str | 946 | True | Telefono con limpieza de formato para comparacion y validacion. |
-| telefono_valido | boolean | 0 | True | Bandera booleana: telefono_normalizado tiene 8 digitos. |
-| distrito_formato_revisar | boolean | 0 | True | Bandera booleana: distrito no cumple patron esperado NN-NN. |
+| telefono_normalizado | str | 1194 | True | Telefono de 8 digitos; queda ausente cuando el original no puede normalizarse de forma segura. |
+| telefono_valido | boolean | 0 | True | Bandera booleana: indica que se obtuvo un telefono normalizado de 8 digitos. |
+| distrito_formato_revisar | boolean | 0 | True | Bandera booleana: el distrito de origen estaba incompleto o fuera de los patrones observados. |
 | departamental_difiere_departamento | boolean | 0 | True | Bandera booleana: departamental difiere de departamento. |

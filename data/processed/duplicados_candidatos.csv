@@ -681,7 +681,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 04-01-2295-46,04-01-3018-46,CHIMALTENANGO,1.0,1.0,True,pendiente_revision_manual
 04-01-2827-46,04-01-3018-46,CHIMALTENANGO,1.0,1.0,True,pendiente_revision_manual
 04-01-0300-46,04-01-0301-46,CHIMALTENANGO,1.0,1.0,True,pendiente_revision_manual
-04-01-0635-46,04-01-2552-46,CHIMALTENANGO,0.9924,1.0,True,pendiente_revision_manual
+04-01-0635-46,04-01-2552-46,CHIMALTENANGO,0.9924,1.0,False,pendiente_revision_manual
 04-01-2549-46,04-01-2768-46,CHIMALTENANGO,1.0,0.9885,True,pendiente_revision_manual
 04-01-0139-46,04-01-0140-46,CHIMALTENANGO,1.0,1.0,False,pendiente_revision_manual
 04-01-0139-46,04-01-0141-46,CHIMALTENANGO,1.0,1.0,False,pendiente_revision_manual
@@ -692,11 +692,11 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 04-01-0140-46,04-01-0142-46,CHIMALTENANGO,1.0,1.0,False,pendiente_revision_manual
 04-01-0140-46,04-01-0197-46,CHIMALTENANGO,1.0,1.0,False,pendiente_revision_manual
 04-01-0140-46,04-01-0347-46,CHIMALTENANGO,1.0,1.0,False,pendiente_revision_manual
-04-01-0141-46,04-01-0142-46,CHIMALTENANGO,1.0,1.0,True,pendiente_revision_manual
+04-01-0141-46,04-01-0142-46,CHIMALTENANGO,1.0,1.0,False,pendiente_revision_manual
 04-01-0141-46,04-01-0197-46,CHIMALTENANGO,1.0,1.0,False,pendiente_revision_manual
-04-01-0141-46,04-01-0347-46,CHIMALTENANGO,1.0,1.0,True,pendiente_revision_manual
+04-01-0141-46,04-01-0347-46,CHIMALTENANGO,1.0,1.0,False,pendiente_revision_manual
 04-01-0142-46,04-01-0197-46,CHIMALTENANGO,1.0,1.0,False,pendiente_revision_manual
-04-01-0142-46,04-01-0347-46,CHIMALTENANGO,1.0,1.0,True,pendiente_revision_manual
+04-01-0142-46,04-01-0347-46,CHIMALTENANGO,1.0,1.0,False,pendiente_revision_manual
 04-01-0197-46,04-01-0347-46,CHIMALTENANGO,1.0,1.0,False,pendiente_revision_manual
 04-01-0341-46,04-01-3036-46,CHIMALTENANGO,1.0,1.0,False,pendiente_revision_manual
 04-01-0345-46,04-01-2957-46,CHIMALTENANGO,1.0,1.0,True,pendiente_revision_manual
@@ -820,7 +820,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 04-01-2897-46,04-01-2900-46,CHIMALTENANGO,1.0,1.0,False,pendiente_revision_manual
 04-01-2897-46,04-01-2901-46,CHIMALTENANGO,1.0,1.0,False,pendiente_revision_manual
 04-01-2900-46,04-01-2901-46,CHIMALTENANGO,1.0,1.0,True,pendiente_revision_manual
-04-01-3069-46,04-01-3071-46,CHIMALTENANGO,1.0,1.0,True,pendiente_revision_manual
+04-01-3069-46,04-01-3071-46,CHIMALTENANGO,1.0,1.0,False,pendiente_revision_manual
 04-01-0059-46,04-01-3076-46,CHIMALTENANGO,1.0,1.0,True,pendiente_revision_manual
 04-01-0059-46,04-01-3253-46,CHIMALTENANGO,1.0,1.0,True,pendiente_revision_manual
 04-01-0059-46,04-01-3254-46,CHIMALTENANGO,1.0,1.0,True,pendiente_revision_manual
@@ -1056,7 +1056,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 20-01-0213-46,20-01-0216-46,CHIQUIMULA,1.0,0.9756,True,pendiente_revision_manual
 20-01-0245-46,20-01-0323-46,CHIQUIMULA,1.0,1.0,True,pendiente_revision_manual
 20-01-2349-46,20-01-2351-46,CHIQUIMULA,1.0,1.0,False,pendiente_revision_manual
-20-01-2349-46,20-01-2352-46,CHIQUIMULA,1.0,1.0,True,pendiente_revision_manual
+20-01-2349-46,20-01-2352-46,CHIQUIMULA,1.0,1.0,False,pendiente_revision_manual
 20-01-2349-46,20-01-2353-46,CHIQUIMULA,1.0,1.0,False,pendiente_revision_manual
 20-01-2351-46,20-01-2352-46,CHIQUIMULA,1.0,1.0,False,pendiente_revision_manual
 20-01-2351-46,20-01-2353-46,CHIQUIMULA,1.0,1.0,True,pendiente_revision_manual
@@ -1539,7 +1539,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 12-04-0245-46,12-04-0247-46,COMITANCILLO,1.0,1.0,True,pendiente_revision_manual
 12-04-0245-46,12-04-0252-46,COMITANCILLO,1.0,1.0,False,pendiente_revision_manual
 12-04-0246-46,12-04-0247-46,COMITANCILLO,1.0,1.0,False,pendiente_revision_manual
-12-04-0246-46,12-04-0252-46,COMITANCILLO,1.0,1.0,True,pendiente_revision_manual
+12-04-0246-46,12-04-0252-46,COMITANCILLO,1.0,1.0,False,pendiente_revision_manual
 12-04-0247-46,12-04-0252-46,COMITANCILLO,1.0,1.0,False,pendiente_revision_manual
 12-04-0116-46,12-04-0211-46,COMITANCILLO,1.0,0.9254,True,pendiente_revision_manual
 12-04-0066-46,12-04-0081-46,COMITANCILLO,1.0,0.4151,False,pendiente_revision_manual
@@ -2073,7 +2073,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 05-01-0420-46,05-01-2811-46,ESCUINTLA,1.0,0.9885,True,pendiente_revision_manual
 05-01-0481-46,05-01-3111-46,ESCUINTLA,1.0,0.5185,False,pendiente_revision_manual
 05-01-2067-46,05-01-2103-46,ESCUINTLA,1.0,0.8108,True,pendiente_revision_manual
-05-01-3023-46,05-01-3024-46,ESCUINTLA,1.0,1.0,True,pendiente_revision_manual
+05-01-3023-46,05-01-3024-46,ESCUINTLA,1.0,1.0,False,pendiente_revision_manual
 05-01-3023-46,05-01-3025-46,ESCUINTLA,1.0,0.6047,False,pendiente_revision_manual
 05-01-3023-46,05-01-3026-46,ESCUINTLA,1.0,0.6047,False,pendiente_revision_manual
 05-01-3024-46,05-01-3025-46,ESCUINTLA,1.0,0.6047,False,pendiente_revision_manual
@@ -2444,9 +2444,9 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 13-01-0417-46,13-01-0419-46,HUEHUETENANGO,1.0,1.0,False,pendiente_revision_manual
 13-01-0069-46,13-01-0432-46,HUEHUETENANGO,1.0,1.0,True,pendiente_revision_manual
 13-01-0069-46,13-01-0433-46,HUEHUETENANGO,1.0,0.7407,True,pendiente_revision_manual
-13-01-0159-46,13-01-0162-46,HUEHUETENANGO,1.0,1.0,True,pendiente_revision_manual
-13-01-0159-46,13-01-0163-46,HUEHUETENANGO,1.0,1.0,True,pendiente_revision_manual
-13-01-0162-46,13-01-0163-46,HUEHUETENANGO,1.0,1.0,True,pendiente_revision_manual
+13-01-0159-46,13-01-0162-46,HUEHUETENANGO,1.0,1.0,False,pendiente_revision_manual
+13-01-0159-46,13-01-0163-46,HUEHUETENANGO,1.0,1.0,False,pendiente_revision_manual
+13-01-0162-46,13-01-0163-46,HUEHUETENANGO,1.0,1.0,False,pendiente_revision_manual
 13-01-0415-46,13-01-7111-46,HUEHUETENANGO,1.0,0.8,True,pendiente_revision_manual
 13-01-0415-46,13-01-7133-46,HUEHUETENANGO,1.0,0.8,True,pendiente_revision_manual
 13-01-0432-46,13-01-0433-46,HUEHUETENANGO,1.0,0.7407,True,pendiente_revision_manual
@@ -3000,8 +3000,8 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 03-02-0059-46,03-02-0066-46,JOCOTENANGO,1.0,1.0,False,pendiente_revision_manual
 03-02-0060-46,03-02-0066-46,JOCOTENANGO,1.0,1.0,False,pendiente_revision_manual
 03-02-0057-46,03-02-0061-46,JOCOTENANGO,1.0,0.6364,False,pendiente_revision_manual
-03-02-0002-46,03-02-0004-46,JOCOTENANGO,1.0,1.0,True,pendiente_revision_manual
-03-02-1423-46,03-02-1424-46,JOCOTENANGO,1.0,1.0,True,pendiente_revision_manual
+03-02-0002-46,03-02-0004-46,JOCOTENANGO,1.0,1.0,False,pendiente_revision_manual
+03-02-1423-46,03-02-1424-46,JOCOTENANGO,1.0,1.0,False,pendiente_revision_manual
 14-12-0162-46,14-12-0164-46,JOYABAJ,1.0,0.4324,False,pendiente_revision_manual
 14-12-0083-46,14-12-1093-46,JOYABAJ,1.0,1.0,False,pendiente_revision_manual
 14-12-0122-46,14-12-0125-46,JOYABAJ,1.0,1.0,False,pendiente_revision_manual
@@ -3061,7 +3061,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 22-01-0666-46,22-01-0725-46,JUTIAPA,1.0,1.0,True,pendiente_revision_manual
 22-01-0666-46,22-01-0734-46,JUTIAPA,1.0,1.0,True,pendiente_revision_manual
 22-01-0725-46,22-01-0734-46,JUTIAPA,1.0,1.0,True,pendiente_revision_manual
-22-01-2133-46,22-01-2134-46,JUTIAPA,1.0,1.0,True,pendiente_revision_manual
+22-01-2133-46,22-01-2134-46,JUTIAPA,1.0,1.0,False,pendiente_revision_manual
 22-01-0451-46,22-01-0452-46,JUTIAPA,1.0,1.0,True,pendiente_revision_manual
 22-01-0451-46,22-01-0453-46,JUTIAPA,1.0,1.0,True,pendiente_revision_manual
 22-01-0451-46,22-01-0454-46,JUTIAPA,1.0,0.3492,False,pendiente_revision_manual
@@ -3126,7 +3126,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 22-01-0347-46,22-01-0348-46,JUTIAPA,1.0,1.0,True,pendiente_revision_manual
 22-01-0347-46,22-01-0356-46,JUTIAPA,1.0,0.807,False,pendiente_revision_manual
 22-01-0348-46,22-01-0356-46,JUTIAPA,1.0,0.807,False,pendiente_revision_manual
-22-01-0420-46,22-01-0421-46,JUTIAPA,1.0,1.0,True,pendiente_revision_manual
+22-01-0420-46,22-01-0421-46,JUTIAPA,1.0,1.0,False,pendiente_revision_manual
 22-01-0420-46,22-01-0422-46,JUTIAPA,1.0,1.0,False,pendiente_revision_manual
 22-01-0421-46,22-01-0422-46,JUTIAPA,1.0,1.0,False,pendiente_revision_manual
 22-01-0457-46,22-01-0461-46,JUTIAPA,1.0,1.0,False,pendiente_revision_manual
@@ -4335,7 +4335,6 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 01-08-7315-46,01-08-8431-46,MIXCO,1.0,0.8444,False,pendiente_revision_manual
 01-08-7432-46,01-08-9770-46,MIXCO,1.0,0.6154,True,pendiente_revision_manual
 01-08-7688-46,01-08-7693-46,MIXCO,1.0,0.5455,False,pendiente_revision_manual
-01-08-7692-46,01-08-7693-46,MIXCO,0.8182,1.0,True,pendiente_revision_manual
 01-08-8067-46,01-08-8572-46,MIXCO,1.0,0.8608,True,pendiente_revision_manual
 01-08-8067-46,01-08-8573-46,MIXCO,0.875,0.8608,True,pendiente_revision_manual
 01-08-8414-46,01-08-8415-46,MIXCO,1.0,1.0,True,pendiente_revision_manual
@@ -4367,7 +4366,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 01-08-6257-46,01-08-7879-46,MIXCO,1.0,0.8163,False,pendiente_revision_manual
 01-08-6296-46,01-08-7879-46,MIXCO,1.0,0.8667,False,pendiente_revision_manual
 01-08-8366-46,01-08-9351-46,MIXCO,1.0,0.8421,True,pendiente_revision_manual
-01-08-7770-46,01-08-7772-46,MIXCO,1.0,1.0,True,pendiente_revision_manual
+01-08-7770-46,01-08-7772-46,MIXCO,1.0,1.0,False,pendiente_revision_manual
 01-08-0143-46,01-08-0799-46,MIXCO,1.0,0.7077,True,pendiente_revision_manual
 01-08-0143-46,01-08-1029-46,MIXCO,1.0,1.0,True,pendiente_revision_manual
 01-08-0143-46,01-08-1030-46,MIXCO,1.0,1.0,False,pendiente_revision_manual
@@ -4491,7 +4490,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 01-08-8557-46,01-08-8559-46,MIXCO,1.0,0.975,False,pendiente_revision_manual
 01-08-8557-46,01-08-8561-46,MIXCO,1.0,1.0,False,pendiente_revision_manual
 01-08-8557-46,01-08-9289-46,MIXCO,0.931,0.9412,False,pendiente_revision_manual
-01-08-8559-46,01-08-8561-46,MIXCO,1.0,0.975,True,pendiente_revision_manual
+01-08-8559-46,01-08-8561-46,MIXCO,1.0,0.975,False,pendiente_revision_manual
 01-08-8559-46,01-08-9289-46,MIXCO,0.931,0.9176,False,pendiente_revision_manual
 01-08-8561-46,01-08-9289-46,MIXCO,0.931,0.9412,False,pendiente_revision_manual
 01-08-0850-46,01-08-0859-46,MIXCO,0.75,0.9383,True,pendiente_revision_manual
@@ -4546,9 +4545,9 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 01-08-8404-46,01-08-8405-46,MIXCO,1.0,1.0,False,pendiente_revision_manual
 01-08-8404-46,01-08-8406-46,MIXCO,1.0,1.0,False,pendiente_revision_manual
 01-08-8404-46,01-08-8407-46,MIXCO,1.0,1.0,False,pendiente_revision_manual
-01-08-8405-46,01-08-8406-46,MIXCO,1.0,1.0,True,pendiente_revision_manual
-01-08-8405-46,01-08-8407-46,MIXCO,1.0,1.0,True,pendiente_revision_manual
-01-08-8406-46,01-08-8407-46,MIXCO,1.0,1.0,True,pendiente_revision_manual
+01-08-8405-46,01-08-8406-46,MIXCO,1.0,1.0,False,pendiente_revision_manual
+01-08-8405-46,01-08-8407-46,MIXCO,1.0,1.0,False,pendiente_revision_manual
+01-08-8406-46,01-08-8407-46,MIXCO,1.0,1.0,False,pendiente_revision_manual
 01-08-8255-46,01-08-8707-46,MIXCO,1.0,0.8302,True,pendiente_revision_manual
 01-08-0153-46,01-08-0778-46,MIXCO,1.0,0.8317,False,pendiente_revision_manual
 01-08-0519-46,01-08-0520-46,MIXCO,1.0,1.0,True,pendiente_revision_manual
@@ -4663,12 +4662,12 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 01-08-0466-46,01-08-0782-46,MIXCO,1.0,0.8434,True,pendiente_revision_manual
 01-08-0466-46,01-08-0899-46,MIXCO,0.7547,0.7213,True,pendiente_revision_manual
 01-08-0782-46,01-08-0899-46,MIXCO,0.7547,0.6667,True,pendiente_revision_manual
-01-08-9327-46,01-08-9328-46,MIXCO,1.0,0.625,True,pendiente_revision_manual
-01-08-9327-46,01-08-9330-46,MIXCO,1.0,1.0,True,pendiente_revision_manual
-01-08-9327-46,01-08-9332-46,MIXCO,1.0,1.0,True,pendiente_revision_manual
-01-08-9328-46,01-08-9330-46,MIXCO,1.0,0.625,True,pendiente_revision_manual
-01-08-9328-46,01-08-9332-46,MIXCO,1.0,0.625,True,pendiente_revision_manual
-01-08-9330-46,01-08-9332-46,MIXCO,1.0,1.0,True,pendiente_revision_manual
+01-08-9327-46,01-08-9328-46,MIXCO,1.0,0.625,False,pendiente_revision_manual
+01-08-9327-46,01-08-9330-46,MIXCO,1.0,1.0,False,pendiente_revision_manual
+01-08-9327-46,01-08-9332-46,MIXCO,1.0,1.0,False,pendiente_revision_manual
+01-08-9328-46,01-08-9330-46,MIXCO,1.0,0.625,False,pendiente_revision_manual
+01-08-9328-46,01-08-9332-46,MIXCO,1.0,0.625,False,pendiente_revision_manual
+01-08-9330-46,01-08-9332-46,MIXCO,1.0,1.0,False,pendiente_revision_manual
 01-08-9847-46,01-08-9848-46,MIXCO,1.0,1.0,True,pendiente_revision_manual
 01-08-7776-46,01-08-7778-46,MIXCO,1.0,1.0,True,pendiente_revision_manual
 01-08-7776-46,01-08-7781-46,MIXCO,1.0,1.0,True,pendiente_revision_manual
@@ -4898,7 +4897,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 18-04-0126-46,18-04-0182-46,MORALES,1.0,1.0,True,pendiente_revision_manual
 18-04-0128-46,18-04-0182-46,MORALES,1.0,1.0,False,pendiente_revision_manual
 18-04-0077-46,18-04-0505-46,MORALES,1.0,1.0,False,pendiente_revision_manual
-18-04-0246-46,18-04-0380-46,MORALES,1.0,1.0,True,pendiente_revision_manual
+18-04-0246-46,18-04-0380-46,MORALES,1.0,1.0,False,pendiente_revision_manual
 18-04-0414-46,18-04-0415-46,MORALES,1.0,1.0,False,pendiente_revision_manual
 18-04-0193-46,18-04-0194-46,MORALES,1.0,1.0,False,pendiente_revision_manual
 18-04-0193-46,18-04-0195-46,MORALES,1.0,1.0,True,pendiente_revision_manual
@@ -5594,12 +5593,12 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 18-01-0443-46,18-01-3017-46,PUERTO BARRIOS,1.0,0.4211,True,pendiente_revision_manual
 18-01-0380-46,18-01-0461-46,PUERTO BARRIOS,0.9939,0.6809,False,pendiente_revision_manual
 18-01-0291-46,18-01-0292-46,PUERTO BARRIOS,1.0,1.0,True,pendiente_revision_manual
-18-01-0305-46,18-01-0306-46,PUERTO BARRIOS,1.0,1.0,True,pendiente_revision_manual
-18-01-0305-46,18-01-0307-46,PUERTO BARRIOS,1.0,1.0,True,pendiente_revision_manual
-18-01-0305-46,18-01-0308-46,PUERTO BARRIOS,1.0,1.0,True,pendiente_revision_manual
-18-01-0306-46,18-01-0307-46,PUERTO BARRIOS,1.0,1.0,True,pendiente_revision_manual
-18-01-0306-46,18-01-0308-46,PUERTO BARRIOS,1.0,1.0,True,pendiente_revision_manual
-18-01-0307-46,18-01-0308-46,PUERTO BARRIOS,1.0,1.0,True,pendiente_revision_manual
+18-01-0305-46,18-01-0306-46,PUERTO BARRIOS,1.0,1.0,False,pendiente_revision_manual
+18-01-0305-46,18-01-0307-46,PUERTO BARRIOS,1.0,1.0,False,pendiente_revision_manual
+18-01-0305-46,18-01-0308-46,PUERTO BARRIOS,1.0,1.0,False,pendiente_revision_manual
+18-01-0306-46,18-01-0307-46,PUERTO BARRIOS,1.0,1.0,False,pendiente_revision_manual
+18-01-0306-46,18-01-0308-46,PUERTO BARRIOS,1.0,1.0,False,pendiente_revision_manual
+18-01-0307-46,18-01-0308-46,PUERTO BARRIOS,1.0,1.0,False,pendiente_revision_manual
 18-01-0254-46,18-01-0256-46,PUERTO BARRIOS,1.0,1.0,True,pendiente_revision_manual
 18-01-0173-46,18-01-0174-46,PUERTO BARRIOS,1.0,0.5641,False,pendiente_revision_manual
 18-01-0173-46,18-01-0178-46,PUERTO BARRIOS,1.0,0.5946,False,pendiente_revision_manual
@@ -5660,7 +5659,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 18-01-0340-46,18-01-0343-46,PUERTO BARRIOS,1.0,0.7308,False,pendiente_revision_manual
 18-01-0340-46,18-01-0344-46,PUERTO BARRIOS,0.9841,0.7308,False,pendiente_revision_manual
 18-01-0340-46,18-01-0426-46,PUERTO BARRIOS,1.0,0.7308,False,pendiente_revision_manual
-18-01-0343-46,18-01-0344-46,PUERTO BARRIOS,0.9841,1.0,True,pendiente_revision_manual
+18-01-0343-46,18-01-0344-46,PUERTO BARRIOS,0.9841,1.0,False,pendiente_revision_manual
 18-01-0343-46,18-01-0426-46,PUERTO BARRIOS,1.0,1.0,False,pendiente_revision_manual
 18-01-0344-46,18-01-0426-46,PUERTO BARRIOS,0.9841,1.0,False,pendiente_revision_manual
 18-01-2405-46,18-01-2424-46,PUERTO BARRIOS,1.0,1.0,True,pendiente_revision_manual
@@ -6338,14 +6337,14 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 15-01-0102-46,15-01-0180-46,SALAMA,1.0,0.8372,False,pendiente_revision_manual
 15-01-0102-46,15-01-1947-46,SALAMA,1.0,0.8372,False,pendiente_revision_manual
 15-01-0102-46,15-01-2164-46,SALAMA,1.0,0.6349,True,pendiente_revision_manual
-15-01-0111-46,15-01-0112-46,SALAMA,1.0,1.0,True,pendiente_revision_manual
+15-01-0111-46,15-01-0112-46,SALAMA,1.0,1.0,False,pendiente_revision_manual
 15-01-0111-46,15-01-0113-46,SALAMA,1.0,1.0,False,pendiente_revision_manual
-15-01-0111-46,15-01-0114-46,SALAMA,1.0,1.0,True,pendiente_revision_manual
+15-01-0111-46,15-01-0114-46,SALAMA,1.0,1.0,False,pendiente_revision_manual
 15-01-0111-46,15-01-0115-46,SALAMA,1.0,1.0,False,pendiente_revision_manual
 15-01-0111-46,15-01-0154-46,SALAMA,1.0,1.0,False,pendiente_revision_manual
 15-01-0111-46,15-01-0178-46,SALAMA,1.0,1.0,False,pendiente_revision_manual
 15-01-0112-46,15-01-0113-46,SALAMA,1.0,1.0,False,pendiente_revision_manual
-15-01-0112-46,15-01-0114-46,SALAMA,1.0,1.0,True,pendiente_revision_manual
+15-01-0112-46,15-01-0114-46,SALAMA,1.0,1.0,False,pendiente_revision_manual
 15-01-0112-46,15-01-0115-46,SALAMA,1.0,1.0,False,pendiente_revision_manual
 15-01-0112-46,15-01-0154-46,SALAMA,1.0,1.0,False,pendiente_revision_manual
 15-01-0112-46,15-01-0178-46,SALAMA,1.0,1.0,False,pendiente_revision_manual
@@ -6706,7 +6705,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 17-03-0025-46,17-03-0026-46,SAN BENITO,1.0,0.1667,False,pendiente_revision_manual
 17-03-0025-46,17-03-0124-46,SAN BENITO,1.0,0.2979,False,pendiente_revision_manual
 17-03-0026-46,17-03-0124-46,SAN BENITO,1.0,0.383,False,pendiente_revision_manual
-17-03-0084-46,17-03-0085-46,SAN BENITO,1.0,1.0,True,pendiente_revision_manual
+17-03-0084-46,17-03-0085-46,SAN BENITO,1.0,1.0,False,pendiente_revision_manual
 17-03-0115-46,17-03-0116-46,SAN BENITO,1.0,0.9714,False,pendiente_revision_manual
 17-03-0115-46,17-03-0145-46,SAN BENITO,1.0,1.0,True,pendiente_revision_manual
 17-03-0116-46,17-03-0145-46,SAN BENITO,1.0,0.9714,False,pendiente_revision_manual
@@ -6747,7 +6746,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 08-02-0055-46,08-02-0068-46,SAN CRISTOBAL TOTONICAPAN,1.0,1.0,True,pendiente_revision_manual
 08-02-0056-46,08-02-0068-46,SAN CRISTOBAL TOTONICAPAN,1.0,0.9877,True,pendiente_revision_manual
 08-02-0042-46,08-02-0048-46,SAN CRISTOBAL TOTONICAPAN,1.0,1.0,False,pendiente_revision_manual
-08-02-0042-46,08-02-0099-46,SAN CRISTOBAL TOTONICAPAN,1.0,1.0,True,pendiente_revision_manual
+08-02-0042-46,08-02-0099-46,SAN CRISTOBAL TOTONICAPAN,1.0,1.0,False,pendiente_revision_manual
 08-02-0048-46,08-02-0099-46,SAN CRISTOBAL TOTONICAPAN,1.0,1.0,False,pendiente_revision_manual
 08-02-0064-46,08-02-0065-46,SAN CRISTOBAL TOTONICAPAN,1.0,1.0,False,pendiente_revision_manual
 08-02-0064-46,08-02-0096-46,SAN CRISTOBAL TOTONICAPAN,1.0,1.0,False,pendiente_revision_manual
@@ -10817,7 +10816,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 00-01-8215-46,00-01-8678-46,ZONA 1,0.9032,0.9375,False,pendiente_revision_manual
 00-01-8673-46,00-01-8675-46,ZONA 1,1.0,0.2069,False,pendiente_revision_manual
 00-01-8673-46,00-01-8678-46,ZONA 1,1.0,0.2069,False,pendiente_revision_manual
-00-01-8675-46,00-01-8678-46,ZONA 1,1.0,0.9375,True,pendiente_revision_manual
+00-01-8675-46,00-01-8678-46,ZONA 1,1.0,0.9375,False,pendiente_revision_manual
 00-01-0210-46,00-01-0412-46,ZONA 1,0.9123,0.9677,False,pendiente_revision_manual
 00-01-0673-46,00-01-0674-46,ZONA 1,1.0,1.0,True,pendiente_revision_manual
 00-01-0673-46,00-01-0677-46,ZONA 1,1.0,1.0,True,pendiente_revision_manual
@@ -10986,7 +10985,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 00-01-0404-46,00-01-7263-46,ZONA 1,1.0,0.7879,False,pendiente_revision_manual
 00-01-0404-46,00-01-9830-46,ZONA 1,1.0,1.0,False,pendiente_revision_manual
 00-01-7263-46,00-01-9830-46,ZONA 1,1.0,0.7879,False,pendiente_revision_manual
-00-01-7820-46,00-01-7821-46,ZONA 1,1.0,1.0,True,pendiente_revision_manual
+00-01-7820-46,00-01-7821-46,ZONA 1,1.0,1.0,False,pendiente_revision_manual
 00-01-0158-46,00-01-0479-46,ZONA 1,1.0,1.0,True,pendiente_revision_manual
 00-01-0158-46,00-01-0652-46,ZONA 1,0.8571,1.0,True,pendiente_revision_manual
 00-01-0280-46,00-01-9057-46,ZONA 1,1.0,1.0,True,pendiente_revision_manual
@@ -11267,7 +11266,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 00-01-0189-46,00-01-4552-46,ZONA 1,1.0,0.8108,False,pendiente_revision_manual
 00-01-0189-46,00-01-7052-46,ZONA 1,1.0,0.9655,False,pendiente_revision_manual
 00-01-0189-46,00-01-7102-46,ZONA 1,1.0,0.8,False,pendiente_revision_manual
-00-01-0189-46,00-01-8098-46,ZONA 1,1.0,0.8462,True,pendiente_revision_manual
+00-01-0189-46,00-01-8098-46,ZONA 1,1.0,0.8462,False,pendiente_revision_manual
 00-01-4552-46,00-01-7052-46,ZONA 1,1.0,0.7778,True,pendiente_revision_manual
 00-01-4552-46,00-01-7102-46,ZONA 1,1.0,0.625,True,pendiente_revision_manual
 00-01-4552-46,00-01-8098-46,ZONA 1,1.0,0.6667,False,pendiente_revision_manual
@@ -11363,7 +11362,6 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 00-01-2798-46,00-01-8618-46,ZONA 1,1.0,1.0,False,pendiente_revision_manual
 00-01-2908-46,00-01-4376-46,ZONA 1,1.0,0.963,False,pendiente_revision_manual
 00-01-0162-46,00-01-0264-46,ZONA 1,1.0,1.0,False,pendiente_revision_manual
-00-01-0185-46,00-01-0263-46,ZONA 1,0.586,1.0,True,pendiente_revision_manual
 00-01-0192-46,00-01-0868-46,ZONA 1,1.0,0.7692,True,pendiente_revision_manual
 00-01-0192-46,00-01-0869-46,ZONA 1,1.0,0.7692,True,pendiente_revision_manual
 00-01-0195-46,00-01-0241-46,ZONA 1,0.9403,1.0,True,pendiente_revision_manual
@@ -11383,7 +11381,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 00-01-0868-46,00-01-0869-46,ZONA 1,1.0,1.0,True,pendiente_revision_manual
 00-01-2438-46,00-01-2442-46,ZONA 1,0.879,1.0,True,pendiente_revision_manual
 00-01-2462-46,00-01-2801-46,ZONA 1,0.9167,0.7692,False,pendiente_revision_manual
-00-01-2473-46,00-01-3087-46,ZONA 1,1.0,0.6667,True,pendiente_revision_manual
+00-01-2473-46,00-01-3087-46,ZONA 1,1.0,0.6667,False,pendiente_revision_manual
 00-01-2473-46,00-01-4414-46,ZONA 1,1.0,0.8108,False,pendiente_revision_manual
 00-01-2474-46,00-01-7099-46,ZONA 1,1.0,0.625,False,pendiente_revision_manual
 00-01-2474-46,00-01-7127-46,ZONA 1,1.0,0.625,False,pendiente_revision_manual
@@ -11466,7 +11464,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 00-01-0754-46,00-01-6994-46,ZONA 1,1.0,0.6923,False,pendiente_revision_manual
 00-01-2871-46,00-01-2872-46,ZONA 1,0.8667,1.0,True,pendiente_revision_manual
 00-01-2871-46,00-01-6994-46,ZONA 1,1.0,0.6923,False,pendiente_revision_manual
-00-01-9598-46,00-01-9599-46,ZONA 1,1.0,1.0,True,pendiente_revision_manual
+00-01-9598-46,00-01-9599-46,ZONA 1,1.0,1.0,False,pendiente_revision_manual
 00-01-0420-46,00-01-8891-46,ZONA 1,1.0,0.2105,False,pendiente_revision_manual
 00-01-0262-46,00-01-0563-46,ZONA 1,1.0,1.0,True,pendiente_revision_manual
 00-01-0262-46,00-01-0761-46,ZONA 1,1.0,1.0,True,pendiente_revision_manual
@@ -11979,7 +11977,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 00-10-8124-46,00-10-8940-46,ZONA 10,1.0,0.8148,False,pendiente_revision_manual
 00-10-8783-46,00-10-8940-46,ZONA 10,1.0,0.8148,False,pendiente_revision_manual
 00-10-2523-46,00-10-8264-46,ZONA 10,1.0,1.0,False,pendiente_revision_manual
-00-10-7185-46,00-10-7186-46,ZONA 10,1.0,0.6809,True,pendiente_revision_manual
+00-10-7185-46,00-10-7186-46,ZONA 10,1.0,0.6809,False,pendiente_revision_manual
 00-10-0026-46,00-10-0027-46,ZONA 10,1.0,1.0,True,pendiente_revision_manual
 00-10-0026-46,00-10-0041-46,ZONA 10,1.0,1.0,True,pendiente_revision_manual
 00-10-0027-46,00-10-0041-46,ZONA 10,1.0,1.0,True,pendiente_revision_manual
@@ -12675,7 +12673,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 00-21-7973-46,00-21-7974-46,ZONA 21,1.0,1.0,False,pendiente_revision_manual
 00-21-7973-46,00-21-7975-46,ZONA 21,1.0,1.0,False,pendiente_revision_manual
 00-21-7973-46,00-21-8324-46,ZONA 21,1.0,0.9153,True,pendiente_revision_manual
-00-21-7974-46,00-21-7975-46,ZONA 21,1.0,1.0,True,pendiente_revision_manual
+00-21-7974-46,00-21-7975-46,ZONA 21,1.0,1.0,False,pendiente_revision_manual
 00-21-7974-46,00-21-8324-46,ZONA 21,1.0,0.9153,False,pendiente_revision_manual
 00-21-7975-46,00-21-8324-46,ZONA 21,1.0,0.9153,False,pendiente_revision_manual
 00-21-0088-46,00-21-0089-46,ZONA 21,1.0,1.0,True,pendiente_revision_manual
@@ -12993,7 +12991,7 @@ codigo_1,codigo_2,municipio,score_nombre,score_direccion,telefono_igual,decision
 00-07-8442-46,00-07-9749-46,ZONA 7,1.0,0.2817,False,pendiente_revision_manual
 00-07-9748-46,00-07-9749-46,ZONA 7,1.0,1.0,True,pendiente_revision_manual
 00-07-0131-46,00-07-0260-46,ZONA 7,1.0,0.2,False,pendiente_revision_manual
-00-07-9677-46,00-07-9678-46,ZONA 7,1.0,1.0,True,pendiente_revision_manual
+00-07-9677-46,00-07-9678-46,ZONA 7,1.0,1.0,False,pendiente_revision_manual
 00-07-0054-46,00-07-0114-46,ZONA 7,1.0,1.0,True,pendiente_revision_manual
 00-07-0054-46,00-07-0116-46,ZONA 7,1.0,1.0,True,pendiente_revision_manual
 00-07-0054-46,00-07-0232-46,ZONA 7,1.0,0.9247,True,pendiente_revision_manual

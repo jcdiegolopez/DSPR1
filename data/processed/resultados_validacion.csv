@@ -1,0 +1,9 @@
+prueba,regla,incumplimientos,resultado
+Duplicados exactos,No existen filas identicas,0,CUMPLE
+Espacios externos,Los textos no tienen espacios iniciales o finales,0,CUMPLE
+Telefonos,El telefono normalizado tiene ocho digitos o es NA y su bandera coincide,0,CUMPLE
+Departamentos,Todos los departamentos pertenecen al catalogo,0,CUMPLE
+Municipios,Cada par departamento-municipio pertenece al catalogo,0,CUMPLE
+Tipos de dato,"Textos, fecha y banderas usan el tipo esperado",0,CUMPLE
+Categorias equivalentes,No hay categorias duplicadas por diferencias de escritura,0,CUMPLE
+Invalidos del diagnostico,"No quedan codigos, distritos, telefonos o categorias invalidas en los campos analiticos",0,CUMPLE
