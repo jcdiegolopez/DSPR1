@@ -22,7 +22,7 @@ Las reglas generales seran las siguientes:
 | Variable | Problemas encontrados en el diagnostico | Regla de limpieza y justificacion | Riesgo asociado |
 |---|---|---|---|
 | `codigo` | No hay faltantes y los 11,867 valores cumplen el patron `NN-NN-NNNN-NN`. | Conservar como texto; aplicar solo limpieza de espacios y validar de nuevo el patron. Es un identificador, no una medida numerica. | Convertirlo a numero eliminaria guiones y podria perder ceros iniciales. |
-| `distrito` | 532 faltantes y 70 valores con patrones distintos de los mas frecuentes. | Convertir marcadores a `NA`, normalizar espacios y conservar el texto como identificador. Crear una bandera `distrito_formato_revisar` para los 70 casos; no cambiar su contenido automaticamente. | Forzar todos los patrones a una sola estructura puede convertir distritos validos en valores incorrectos. |
+| `distrito` | 532 faltantes y 70 valores con patrones distintos de los mas frecuentes. | Convertir marcadores a `NA` y normalizar espacios. Para los 70 casos cuyo formato no puede verificarse contra los patrones definidos, crear la bandera `distrito_formato_revisar` y convertir `distrito` a `NA`; no se eliminan filas. | Forzar todos los patrones a una sola estructura puede convertir distritos validos en valores incorrectos; por ello los casos no verificables se conservan como registros y se marcan para revision. |
 | `departamento` | Sin faltantes; 23 categorias validas segun el catalogo. | Normalizar espacios y mayusculas; validar contra el catalogo de departamentos. No se anticipan unificaciones. | Una correccion basada solo en similitud podria confundir nombres parecidos. |
 | `municipio` | Sin faltantes; 352 categorias y ninguna combinacion `departamento`-`municipio` fuera del catalogo. | Normalizar espacios y mayusculas; validar la combinacion con `departamento` mediante el catalogo. | Cambiar un municipio sin considerar su departamento puede asignarlo a otra localidad homonima. |
 | `establecimiento` | 5 valores faltantes; es un nombre libre, con posibles variaciones de escritura. | Convertir marcadores a `NA`, normalizar espacios y caracteres invisibles. Mantener las tildes y puntuacion; generar una clave normalizada solo para detectar duplicados parciales, sin reemplazar el nombre original. | Homogeneizar agresivamente nombres puede juntar establecimientos diferentes con nombres similares. |
@@ -58,7 +58,7 @@ El diagnostico no encontro duplicados exactos, por lo que no se eliminara ningun
 2. Aplicar la normalizacion textual y convertir marcadores de ausencia a `NA`.
 3. Convertir `fecha_extraccion` a fecha-hora y conservar identificadores y telefonos como texto.
 4. Validar categorias y combinaciones de ubicacion con los catalogos del MINEDUC.
-5. Crear banderas de revision para telefonos y distritos; no eliminar registros por estas banderas.
+5. Crear banderas de revision para telefonos y distritos. Los distritos cuyo formato no pueda verificarse se convertiran a `NA`; no se eliminaran registros por estas banderas.
 6. Revisar duplicados parciales y documentar cada decision.
 7. Eliminar unicamente `municipio_consulta` si sigue 100% vacia y mover metadatos constantes a la documentacion.
 8. Ejecutar pruebas automaticas: ausencia de duplicados exactos, textos sin espacios externos, codigos validos, telefonos normalizados con bandera de validez, tipos correctos y categorias dentro de sus catalogos.

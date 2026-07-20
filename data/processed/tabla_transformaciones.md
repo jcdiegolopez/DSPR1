@@ -1,0 +1,13 @@
+# Tabla de transformaciones
+
+| Variable | Problema detectado | Transformacion | Registros afectados | Justificacion |
+|---|---|---|---:|---|
+| Todas las variables de texto; area (excepcion SIN ESPECIFICAR) | Vacios y marcadores de ausencia heterogeneos. | Marcadores de ausencia normalizados a NA sin tocar SIN ESPECIFICAR en area. | 5196 | Uniformar ausencias para analisis reproducible y conservar categorias validas. |
+| fecha_extraccion; codigos y telefonos | Fecha en texto y riesgo de perder formato en identificadores. | Dataset cargado como texto; fecha_extraccion convertida a datetime UTC. | 11867 | Preservar codigos y telefonos; garantizar tipo temporal correcto. |
+| Todas las variables de texto | Espacios externos, multiples o invisibles. | Trim, colapso de espacios y eliminacion de invisibles. | 11867 | Evitar diferencias espurias de escritura sin perder semantica. |
+| departamento, municipio, sector, modalidad | Categorias potencialmente fuera de catalogo. | Validacion contra catalogos oficiales de departamento, municipio, sector y modalidad. | 0 | Detectar categorias fuera de dominio sin corregir por inferencia. |
+| codigo, telefono, distrito | Patrones de codigo, telefono y distrito inconsistentes. | Validacion de codigo, normalizacion de telefono y bandera de distrito. | 318 | Aislar formatos problematicos para revision transparente. |
+| codigo, departamento, municipio, sector, modalidad, telefono, distrito | Valores no verificables o fuera de dominio. | Conteo de fuera de dominio en categorias, codigos, telefonos y distritos. | 318 | Resolver formatos incompletos sin inferir valores que no aparecen en la fuente. |
+| Registro completo; establecimiento, direccion, municipio, telefono_normalizado | Posibles registros duplicados exactos o parciales. | Busqueda de duplicados exactos y candidatos parciales con similitud de cadenas. | 13221 | No se elimina automaticamente; se deja evidencia para decision manual. |
+| departamental, departamento, departamento_consulta, departamento_consulta_codigo | Discrepancias potenciales entre variables relacionadas. | Revision de coherencia entre departamental, departamento y metadatos de consulta. | 6094 | Hacer visibles contradicciones entre columnas relacionadas. |
+| telefono_normalizado, telefono_valido, distrito_formato_revisar, departamental_difiere_departamento | Necesidad de campos analiticos y de auditoria derivados. | Creacion de telefono_normalizado, telefono_valido, distrito_formato_revisar y departamental_difiere_departamento. | 11867 | Permiten auditar calidad sin perder el dato original. |
